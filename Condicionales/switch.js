@@ -1,4 +1,4 @@
-let numero=3;
+let numero=1;
 let numerotexto='Valor desconocido';
 
 switch (numero){
